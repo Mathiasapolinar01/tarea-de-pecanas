@@ -1,0 +1,35 @@
+header {
+    background-color: #E2E618;
+    color: black;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: whitesmoke;
+    width: 90;
+    margin: 0 auto;
+
+}
+p {
+    color: #E6131A;
+    text-align: justify;
+
+}
+
+h1 {
+    background-color: #2600E6;
+    text-align: center;
+}
+
+h2 {
+    background-color: #32E62E;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
